@@ -8,7 +8,8 @@ from its code, compiled to WebAssembly and rendered into a 40x25 text screen.
 **Play it: https://aovestdipaperino.github.io/totpro-demo/**
 
 The screens are the original ones, in English by default and in the verbatim
-Italian of the 1984 binary at the flick of a switch. What runs behind them is
+Italian of the 1984 binary at the flick of a switch. The two logo screens the
+program opened with are left out here, since the page carries its own. What runs behind them is
 the real engine: the odometer that enumerates a development without ever
 building a list of it, and the conditioning filters a *sistemista* used to
 throw columns away.
@@ -28,7 +29,7 @@ of the 1,594,323 possible.
 | `TAB` `+` `-` | move between `MIN.`/`MAX.` and adjust them |
 | `N` / `P` | next and previous page of the column listing |
 | `RETURN` | confirm the current field |
-| `ESC` | restart |
+| `ESC` | step back one screen |
 
 ## Building this page
 
