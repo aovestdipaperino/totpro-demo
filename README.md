@@ -1,5 +1,7 @@
 # TOT professional, in the browser
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/totpro-demo?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/totpro-demo/stargazers)
+
 TOT PROFESSIONAL is a 1984 Commodore 64 program for building reduced
 Totocalcio systems, published by TOTOCOMMODORE. This is a reimplementation in
 Rust, written from the reverse-engineering notes of the original rather than
